@@ -1,0 +1,9 @@
+{
+	"editor.codeActionsOnSave": {
+		"source.fixAll": true
+	},
+	"diffEditor.codeLens": true,
+	"editor.formatOnPaste": true,
+	"editor.formatOnSave": true,
+	"editor.formatOnType": true
+}
